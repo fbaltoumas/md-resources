@@ -15,4 +15,4 @@ Some resources and analysis scripts for Molecular Dynamics simulations
 - [`GMX Jarzynski (Python 2.7)`](gmx_jarzynski_py2.7.py): The same script but for the (soon to be obsolete) Python 2.7 version.
 
 #### Perl
-- [Karplus Equation Calculator](): A Perl script that uses the Karplus equation to predict J-couplings based on dihedral angle calculations from MD simulation data, as produced by the GROMACS "gmx angle" utility.
+- [`Karplus Equation Calculator`](karplus_couplings.pl): A Perl script that uses the Karplus equation to predict J-couplings based on dihedral angle calculations from MD simulation data, as produced by the GROMACS "gmx angle" utility.
